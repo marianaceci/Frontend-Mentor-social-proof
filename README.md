@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/react-vite-and-styledcomponent-1NNb-R2_Iw](https://www.frontendmentor.io/solutions/react-vite-and-styledcomponent-1NNb-R2_Iw)
+- Live Site URL: [https://frontend-mentor-social-proof-iota.vercel.app/](https://frontend-mentor-social-proof-iota.vercel.app/)
 
 ## My process
 
