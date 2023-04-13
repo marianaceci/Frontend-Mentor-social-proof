@@ -45,7 +45,7 @@ const TestimonialSection = styled.section`
     display: flex;
     column-gap: 30px;
     align-items: flex-start;
-    margin: 40px auto;
+    margin: 40px auto 10px auto;
 
     .card{
       padding: 2.5rem 2rem;
